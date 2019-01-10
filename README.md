@@ -1,9 +1,9 @@
-# No-Show appointments
-Concepts of probability, A/B Testing and regression are used to
+# A/B Testing
+Concepts of probability, A/B Testing and regression are used to 
 understand the results of an A/B test run by an e-commerce website. 
 The goal is to work through this notebook to help the company 
-understand if they should implement the new page, keep the old page, 
-or perhaps run the experiment longer to make their decision.
+understand if they should implement the new page, keep the old 
+page or perhaps run the experiment longer to make their decision.
 
 Protected by Apache License 2.0.
 
